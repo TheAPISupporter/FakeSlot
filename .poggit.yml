@@ -3,6 +3,6 @@ branches:
 - master
 - patch-1
 projects:
-  FakeSlot:
+  FakeSlot-GenisysPro:
     path: ""
 ...
